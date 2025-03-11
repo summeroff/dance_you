@@ -19,8 +19,8 @@ Sergei, a newcomer to a bizarre prison where dance is enforced as rehabilitation
 
 ## Project Status
 The story is **complete**, with all chapters finalized:
-- **Chapter 0: Тюрьма с танцами (Prison with Dancing)**
-- **Chapter 2: Душ как испытание (The Shower as a Test)** *(Note: Ч1 seems missing in your provided text; adjusted accordingly)*
+- **Chapter 1: Тюрьма с танцами (Prison with Dancing)**
+- **Chapter 2: Душ как испытание (The Shower as a Test)** 
 - **Chapter 3: Танцующий спаситель (The Dancing Savior)**
 - **Chapter 4: Танцевальный баттл (Dance Battle)**
 - **Chapter 5: Большой Танцевальный Цирк (The Great Dance Circus)**
@@ -38,7 +38,7 @@ The completed book is available in multiple formats for easy reading:
 - **HTML**: For online reading
 - **FB2**: For the [FictionBook](https://en.wikipedia.org/wiki/FictionBook) format, popular in Russia, with embedded metadata and structure
 
-Download these compiled versions from the [GitHub Releases page](#) *(replace with actual link once created)*.
+Download these compiled versions from the [GitHub Releases page](https://github.com/summeroff/dance_you/releases) 
 
 ## Repository Structure
 - **LaTeX Sources**:
